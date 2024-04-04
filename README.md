@@ -15,7 +15,7 @@
 <img align="center" alt="JAVA"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
 
-Aficcionado por tecnologia no geral, com ênfase em dados.
+Aficionado por tecnologia no geral, com ênfase em dados.
 
 ## Contatos:
 - Email: matheus.aps@outlook.com
