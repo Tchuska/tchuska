@@ -15,8 +15,18 @@
 <img align="center" alt="JAVA"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
 
-Aficionado por tecnologia no geral, com ênfase em dados.
+## Formação e cursos  com certificado:
+- Superior em Ciência da Computação - Unip - 2022;
+- Banco de dados e SQL - Udemy - 2022;
+- Power BI - Simplifica treinamentos - 2022; 
+- Introdução ao Python - Alfahelix - 2023;
+- Montagem e teste de computadores - Udemy - 2024;
+- Torneio de robótica - Even3 - 2018. <br/><br/>
+Aficcionado por tecnologia no geral, com ênfase em dados.
 
 ## Contatos:
 - Email: matheus.aps@outlook.com
 - Discord: matheus.souza
+
+## Projetos:
+<a href = "https://github.com/Tchuska/Projetos-no-Power-BI"> Projetos no Power BI </a>
