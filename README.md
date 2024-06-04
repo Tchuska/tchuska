@@ -29,4 +29,5 @@ Aficcionado por tecnologia no geral, com ênfase em dados.
 - Discord: matheus.souza
 
 ## Projetos:
-<a href = "https://github.com/Tchuska/Projetos-no-Power-BI"> Projetos no Power BI </a>
+<a href = "https://github.com/Tchuska/Projetos-no-Power-BI"> Projetos no Power BI </a> <br/>
+<a href = "https://github.com/Tchuska/Java"> Java </a>
