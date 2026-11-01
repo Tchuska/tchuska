@@ -22,9 +22,8 @@
 Graduado em **Ciência da Computação** pela Universidade Paulista, com sólida experiência em **manipulação, tratamento e análise de dados**, trazendo insights valiosos para a tomada de decisões importantes.
 
 - 📊 Hoje sou **Analista de Dados Pleno** na **The Magnum Ice Cream**
+- ⚙️ Transformando dados brutos em insights valiosos
 - 🏆 Um dos meus dashboards foi **elogiado pelo CEO global** da empresa em visita oficial
-- 🤝 Apoio o time de vendas com dados, indicadores e apuração de remuneração variável
-- ⚙️ Automatizo processos de dados
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
@@ -46,81 +45,6 @@ Graduado em **Ciência da Computação** pela Universidade Paulista, com sólida
   <img src="https://img.shields.io/badge/SQL-006437?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
-
-<img src="./assets/divider.svg" alt="" width="100%"/>
-
-## 🕹️ Fases concluídas
-
-<table>
-  <tr>
-    <td width="100" align="center">⭐⭐⭐<br/><b>LV 3</b><br/><sub>Mar 2025<br/>Atual</sub></td>
-    <td>
-      <b>Analista de Dados – Pleno</b> · <i>Unilever / The Magnum Ice Cream</i><br/>
-      • Coleta, tratamento e manutenção de bases de dados (Excel, CSV, TXT, SQL, entre outros) com foco em qualidade e consistência.<br/>
-      • Criação de dashboards com insights acionáveis para apoiar decisões e planos de ação, sendo um deles <b>elogiado pelo CEO global</b> da empresa em visita oficial.<br/>
-      • Suporte analítico ao time de vendas com disponibilização de dados e indicadores.<br/>
-      • Validação e apoio de dados para cálculo de remuneração variável.<br/>
-      <sub><code>Power BI</code> <code>Databricks</code> <code>SQL</code> <code>Excel</code> <code>Word</code> <code>PowerPoint</code> <code>Outlook</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">⭐⭐<br/><b>LV 2</b><br/><sub>Jun 2024<br/>Jan 2025</sub></td>
-    <td>
-      <b>Assistente de Dados (Temporário)</b> · <i>Unilever</i><br/>
-      • Tratamento e padronização de bases de dados para análise.<br/>
-      • Criação e manutenção de dashboards no Power BI com geração de insights.<br/>
-      • Desenvolvimento de fluxos no Alteryx para automação de processos de dados.<br/>
-      <sub><code>Power BI</code> <code>Alteryx</code> <code>Excel</code> <code>Outlook</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">⭐<br/><b>LV 1</b><br/><sub>Nov 2022<br/>Abr 2023</sub></td>
-    <td>
-      <b>Assistente de Dados</b> · <i>HIT Communications</i><br/>
-      • Análise de chamados, preparo de dashboards e apresentação de indicadores para os clientes.<br/>
-      <sub><code>Excel</code> <code>Outlook</code></sub>
-    </td>
-  </tr>
-</table>
-
-<img src="./assets/divider.svg" alt="" width="100%"/>
-
-## 🗺️ Missões
-
-> 🔒 Todas as missões são **confidenciais**, por isso apresento apenas a descrição de cada uma.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 Gestão Mensal</h3>
-      Dashboard que consolida informações de diferentes fontes em uma visão integrada, contextualizando os resultados e apoiando a gestão na identificação de insights e na definição de planos de ação.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 Raio-X</h3>
-      Reúne informações de clientes, territórios e grupos econômicos, permitindo que o time comercial se prepare melhor antes das visitas, identifique oportunidades e defina planos de ação mais assertivos.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>🔑 Vendas Key Account</h3>
-      Principal dashboard do time de Key Account, com visões de NIV, volume e BC, entre outros indicadores, por cliente, família e produto, apoiando o acompanhamento de performance e a tomada de decisão.
-    </td>
-    <td valign="top">
-      <h3>🏢 Vendas por Grupo Econômico</h3>
-      Visões de NIV, volume e BC, entre outros indicadores, por cliente, família e produto, apoiando o acompanhamento de performance, a tomada de decisão e o pagamento dos contratos.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>✨ Inovações</h3>
-      Visão por cliente dos produtos lançados, gerando insights sobre o giro e a performance das inovações e apoiando decisões de ajuste junto aos clientes.
-    </td>
-    <td valign="top">
-      <h3>🎯 Campanhas</h3>
-      Dashboard sob demanda para apuração dos resultados de campanhas, permitindo acompanhar o desempenho e identificar os participantes que atingiram os critérios definidos.
-    </td>
-  </tr>
-</table>
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
