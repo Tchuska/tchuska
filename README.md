@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-alexandre-souza/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-006437?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:matheus.aps@outlook.com"><img src="https://img.shields.io/badge/E--mail-Entrar%20em%20contato-006437?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"/></a>
 </p>
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
